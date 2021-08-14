@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1628940592563,1789,Book_Page,200,,rokomari 1-1,text,true,,1609054,125,1,1,https://www.rokomari.com/book,1518,0,1427
+1628940595836,436,Electronic_Page,200,HTTP/1.1 200,rokomari 1-1,text,true,,149870,0,1,1,https://www.rokomari.com/electronics,381,0,0
+1628940596371,482,Product-Page,200,,rokomari 1-1,text,true,,205916,203,1,1,https://www.rokomari.com/product/category/2086/Product,391,0,0
+1628940596955,176,Gift_Page,200,,rokomari 1-1,text,true,,112581,184,1,1,https://www.rokomari.com/giftfinder,116,0,0
+1628940597189,141,Corporate_Page,200,,rokomari 1-1,text,true,,105447,183,1,1,https://www.rokomari.com/corporate,87,0,0
+1628940597485,193,Offer_Page,200,,rokomari 1-1,text,false,"The result was the wrong size: It was 134,991 bytes, but should have been less than 133,386 bytes.",134991,179,1,1,https://www.rokomari.com/offer,122,0,0
+1628940597737,860,Blog_Page,200,OK,rokomari 1-1,text,true,,224397,122,1,1,https://blog.rokomari.com/,789,0,122
